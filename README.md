@@ -1,5 +1,5 @@
-# Bproject-1
-It includes all the works for my first project.
+# Python
+It includes all the works for python.
 <br>
 Author:(Aditya Giri)
 
